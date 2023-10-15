@@ -1,0 +1,31 @@
+.address{
+    background-color: aqua;
+    border: 40px ;
+    border-radius: 50px;
+    align-content: center;
+    align-items: center;
+}
+
+.ad-text{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 10;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.phone{
+    background-color: rgb(0, 255, 106);
+    border: 40px ;
+    border-radius: 50px;
+    align-content: center;
+    align-items: center;
+}
+.email{
+    background-color: #800080;
+    border: 40px ;
+    border-radius: 50px;
+    align-content: center;
+    align-items: center;
+}
+i class{
+    align-items: center;
+}
